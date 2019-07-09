@@ -1,0 +1,9 @@
+1. ... szablon, zawieraj¹cy pola. Na jej podstawie tworzone s¹ obiekty.
+2. ... kontretny egzemplarz, reprezentuj¹cy dan¹ klasê.
+3. ... s³u¿y do przechowywanie danych.
+4. typ
+5. ... jej wartoœci nie bêdzie mo¿na póŸniej zmieniæ. Ustawiamy j¹ raz.
+6. ... konstruktory, metody i zmienne.
+7. Obiekty ... new 
+8. konstruktor ... konstruktora
+9. referencje ... obiekt
